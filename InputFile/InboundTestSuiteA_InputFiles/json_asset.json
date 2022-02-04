@@ -1,0 +1,31 @@
+[
+  {
+    "errorCode": "123ab",
+    "success": "a//4\\",
+    "result": [
+      {
+        "stjCd": "TN001",
+        "dty": "Regular",
+        "lgnm": "Adaequare TN TaxPayer 1 Ltd"
+      },
+      {
+        "stjCd": "TN002",
+        "dty": "Regular",
+        "lgnm": "Adaequare TN TaxPayer 1 Ltd"
+      }
+    ],
+    "status": "ADYAR",
+    "message": "Search taxpayer is completed successfully"
+  },
+  {
+    "errorCode": "123bc",
+    "success": "test",
+    "result": {
+      "stjCd": "TN001",
+      "dty": "Regular",
+      "lgnm": "Adaequare TN TaxPayer 1 Ltd"
+    },
+    "status": "ADYAR",
+    "message": "Search taxpayer is completed successfully"
+  }
+]
